@@ -1,12 +1,14 @@
+# Environment files
+.env
+.env.local
+.env.*
+backend/.env
+
 # Next.js
 .next/
 
 # Node
 node_modules/
-
-# Environment
-.env
-backend/.env
 
 # Uploads
 backend/uploads/
