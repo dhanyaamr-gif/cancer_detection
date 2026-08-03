@@ -1,0 +1,16 @@
+# Next.js
+.next/
+
+# Node
+node_modules/
+
+# Environment
+.env
+backend/.env
+
+# Uploads
+backend/uploads/
+ai-service/uploads/
+
+# Logs
+*.log

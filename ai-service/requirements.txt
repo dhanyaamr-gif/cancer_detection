@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.12
+numpy>=1.24.0
+opencv-python-headless>=4.9.0
+Pillow>=10.0.0
+pydicom>=2.4.0
+# tensorflow>=2.16.0  # Uncomment when using real model
+# torch>=2.1.0        # Uncomment when using PyTorch model
+# torchvision>=0.16.0 # Uncomment when using PyTorch model
+
